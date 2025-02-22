@@ -10,7 +10,8 @@ Docker → Containerized Execution
 GitHub → Version Control
 
 ⚡ 𝙎𝙚𝙩𝙪𝙥 & 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣
-images/screenshot1.png
+![Screenshot Description](images/screenshot1.png)
+
 
 📜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰
 ✅ Create API Collection in Postman & Export as JSON
@@ -19,9 +20,10 @@ images/screenshot1.png
 ✅ Generate Reports for test results
 ✅ Integrate with CI/CD & Docker (Optional)
 
-images/screenshot2.png
-images/screenshot3.png
-images/screenshot4.png
+![Screenshot Description](images/screenshot2.png)
+![Screenshot Description](images/screenshot3.png)
+![Screenshot Description](images/screenshot4.png)
+
 
 📊 𝙍𝙚𝙥𝙤𝙧𝙩𝙨 & 𝙇𝙤𝙜𝙨
 Postman + Newman Reports → HTML format
